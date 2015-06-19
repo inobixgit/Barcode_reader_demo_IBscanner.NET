@@ -2,7 +2,7 @@
 Visual Studio project for integrating **IBscanner.NET** in your **barcode reader** application.
 
 
-|```      ```| barcode scanner              | barcode reader  |```     ```|
+|```bash      ```| barcode scanner              | barcode reader  |```     ```|
 ------------ | ---------------------------- | ----------------|-----------
 
 

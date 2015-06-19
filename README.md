@@ -15,19 +15,19 @@ The library is written in **fully managed code** and is ready for integration in
  
 ###Features:
 
-> - Load image document from **file**
-> - Load image document  from **Bitmap object**
-> - Load image document  from **URL**
-> - Excellent recognition of **bad quality images** (blurred, low contrast, damaged)
-> - Excellent reading **speed**
-> - **0-360°** scan angle
-> - **Multi-threading**
-> - Support of .Net 2.0, 3.5, 4.0, 4.5
-> - Windows Forms, WPF and Windows Phone
+ - Load image document from **file**
+ - Load image document  from **Bitmap object**
+ - Load image document  from **URL**
+ - Excellent recognition of **bad quality images** (blurred, low contrast, damaged)
+ - Excellent reading **speed**
+ - **0-360°** scan angle
+ - **Multi-threading**
+ - Support of .Net 2.0, 3.5, 4.0, 4.5
+ - Windows Forms, WPF and Windows Phone
 
 
 ###Supported barcode types:
->* Interleaved 2/5
+* Interleaved 2/5
 * Industrial 2/5
 * Code 39
 * Code 39 Extended

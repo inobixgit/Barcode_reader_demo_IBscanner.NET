@@ -2,7 +2,7 @@
 Visual Studio project for integrating **IBscanner.NET** in your **barcode reader** application.
 
 
-|```bash      ```| barcode scanner              | barcode reader  |```     ```|
+|```      ```| barcode scanner              | barcode reader  |```     ```|
 ------------ | ---------------------------- | ----------------|-----------
 
 
@@ -44,4 +44,4 @@ The library is written in **fully managed code** and is ready for integration in
 * Code 93 Extended
 
 
- [www.ibscanner.com](http://ibscanner.com/) homepage of IBscanner.NET component
+ '''bash [www.ibscanner.com](http://ibscanner.com/) homepage of IBscanner.NET component

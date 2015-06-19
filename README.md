@@ -1,5 +1,5 @@
 # IBscannerDemo
-Visual Studio project for integrating **IBscanner.NET in you **barcode **reader application.
+Visual Studio project for integrating **IBscanner.NET in you **barcode reader** application.
 
 
 |```      ```| barcode scanner              | barcode reader  |```     ```|

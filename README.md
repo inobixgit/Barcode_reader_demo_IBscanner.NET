@@ -1,6 +1,8 @@
 # IBscannerDemo
 Visual Studio project for integrating IBscanner.NET in you barcode reader application.
+
 > | barcode scanner | barcode reader | 
+
 ##IBscanner.NET
 
 IBscanner is a .Net library that gives the developers the possibility to easily include a barcode reading and exporting from image documents (scanned invoices, faxes, product photos and other) into their Windows applications.
@@ -37,3 +39,5 @@ The library is written in fully managed code and is ready for integration into .
 * EAN-13
 * Code 93
 * Code 93 Extended
+
+ [www.ibscanner.com](http://ibscanner.com/) homepage of IBscanner.NET component

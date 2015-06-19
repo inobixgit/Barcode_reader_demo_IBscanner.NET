@@ -24,6 +24,7 @@ The library is written in **fully managed code** and is ready for integration in
     - **Multi-threading**
     - Support of .Net 2.0, 3.5, 4.0, 4.5
     - Windows Forms, WPF and Windows Phone
+    **Google Drive** or **Dropbox** 
 
 
 ###Supported barcode types:

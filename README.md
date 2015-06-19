@@ -26,7 +26,7 @@ The library is written in **fully managed code** and is ready for integration in
  - Windows Forms, WPF and Windows Phone
 
 
-###Supported barcode types:
+###Supported barcode types: 
 * Interleaved 2/5
 * Industrial 2/5
 * Code 39

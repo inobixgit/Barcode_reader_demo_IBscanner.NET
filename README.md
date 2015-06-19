@@ -1,6 +1,6 @@
 # IBscannerDemo
 Visual Studio project for integrating IBscanner.NET in you barcode reader application.
-
+> | barcode scanner | barcode reader | 
 ##IBscanner.NET
 
 IBscanner is a .Net library that gives the developers the possibility to easily include a barcode reading and exporting from image documents (scanned invoices, faxes, product photos and other) into their Windows applications.
@@ -10,15 +10,15 @@ The library is written in fully managed code and is ready for integration into .
  
 ###Features:
 
-    * Load image document from a file
-    * Load image document  from a Bitmap object
-    * Load image document  from a URL
-    * Excellent recognition of bad quality images (blurred, low contrast, damaged)
-    * Excellent reading speed
-    * 0-360° scan angle
-    * Multi-threading
-    * Support of .Net 2.0, 3.5, 4.0, 4.5
-    * Windows Forms, WPF and Windows Phone
+    - Load image document from a file
+    - Load image document  from a Bitmap object
+    - Load image document  from a URL
+    - Excellent recognition of bad quality images (blurred, low contrast, damaged)
+    - Excellent reading speed
+    - 0-360° scan angle
+    - Multi-threading
+    - Support of .Net 2.0, 3.5, 4.0, 4.5
+    - Windows Forms, WPF and Windows Phone
 
 
 ###Supported barcode types:

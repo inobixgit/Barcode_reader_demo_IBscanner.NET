@@ -43,13 +43,9 @@ The library is written in **fully managed code** and is ready for integration in
 * Code 93
 * Code 93 Extended
 
-```bash
+```sh
 [www.ibscanner.com](http://ibscanner.com/) homepage of IBscanner.NET component
 ```
 
-If you have installed python,this way is very easy.
-```bash
-cd /path/to/markdown-edit
-python -m SimpleHTTPServer 4567
-```
+
 

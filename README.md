@@ -43,7 +43,7 @@ The library is written in **fully managed code** and is ready for integration in
 * Code 93
 * Code 93 Extended
 
-```bash
+```sh
 [www.ibscanner.com](http://ibscanner.com/) homepage of IBscanner.NET component
 ```
 
